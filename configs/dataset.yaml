@@ -1,0 +1,13 @@
+path: /content/drive/MyDrive/AI Master Courses/WoodSurfaceDefects/dataset/baseline_split_yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+- Quartzity
+- Live_Knot
+- Marrow
+- resin
+- Dead_Knot
+- knot_with_crack
+- Knot_missing
+- Crack
