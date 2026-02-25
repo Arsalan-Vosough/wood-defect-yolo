@@ -1,0 +1,5 @@
+model,run,best_epoch,mAP50,mAP50-95,precision,recall,weights_best,error
+YOLOv8n (baseline),wood_yolov8n_baseline_e50,45,0.67662,0.4049,0.69993,0.62077,/content/drive/MyDrive/AI Master Courses/WoodSurfaceDefects/runs/detect/wood_yolov8n_baseline_e50/weights/best.pt,
+YOLO11n (baseline),wood_yolo11n_baseline_e50,47,0.67282,0.4026,0.71844,0.62744,/content/drive/MyDrive/AI Master Courses/WoodSurfaceDefects/runs/detect/wood_yolo11n_baseline_e50/weights/best.pt,
+YOLOv8n (aug mosaic rare),wood_yolov8n_augMosaicRare_e50,32,0.68071,0.39695,0.68921,0.66078,/content/drive/MyDrive/AI Master Courses/WoodSurfaceDefects/runs/detect/wood_yolov8n_augMosaicRare_e50/weights/best.pt,
+YOLO11n (aug mosaic rare),wood_yolo11n_augMosaicRare_e50,50,0.6765,0.39994,0.68944,0.65171,/content/drive/MyDrive/AI Master Courses/WoodSurfaceDefects/runs/detect/wood_yolo11n_augMosaicRare_e50/weights/best.pt,
